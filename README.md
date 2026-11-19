@@ -118,6 +118,5 @@ Usage analytics starts off and has a separate setting.
 usefulwaves is closed source.
 The first public release is 0.0.1.
 This repository hosts release information and the Sparkle update feed.
-The `firebase-site` branch contains the website source.
 Release assets contain the compiled app and required runtime resources.
 The private application source, development files, and signing keys are not distributed.
