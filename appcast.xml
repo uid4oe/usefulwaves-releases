@@ -9,8 +9,14 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 
 - Dictate into the app you are using with on-device speech recognition.
 - Rewrite selected text and save notes with Quick Actions.
-- Capture meetings and QA reviews in your workspace.</description><pubDate>Fri, 20 Nov 2026 01:18:02 +0100</pubDate><sparkle:version>1</sparkle:version><sparkle:shortVersionString>0.0.1</sparkle:shortVersionString><sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/uid4oe/usefulwaves-releases/releases/download/v0.0.1/usefulwaves-0.0.1.dmg" length="10614098" type="application/octet-stream" sparkle:edSignature="uwJLebRXKvoC1Dlk4NCXtStKwgGrDTFfEaGg3vf+/nJKm1SrR32vd5ch7bZwRkL8HfEKnZrKL4/cBlraprDVBg=="></enclosure></item></channel>
+- Capture meetings and QA reviews in your workspace.</description><pubDate>Fri, 20 Nov 2026 01:18:02 +0100</pubDate><sparkle:version>1</sparkle:version><sparkle:shortVersionString>0.0.1</sparkle:shortVersionString><sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/uid4oe/usefulwaves-releases/releases/download/v0.0.1/usefulwaves-0.0.1.dmg" length="10614098" type="application/octet-stream" sparkle:edSignature="uwJLebRXKvoC1Dlk4NCXtStKwgGrDTFfEaGg3vf+/nJKm1SrR32vd5ch7bZwRkL8HfEKnZrKL4/cBlraprDVBg=="></enclosure></item><item><title>usefulwaves 0.0.2</title><description>usefulwaves 0.0.2 for Apple silicon Macs.
+
+- Read the meeting summary and prepared tasks on one page. Open Transcript for the timestamped conversation.
+- Copy a task or QA finding with its evidence, check it off, or open it in Captures to keep working.
+- Select related tasks or findings and send them to one workflow session.
+
+This update also improves dictation startup and the first paste. Quick Actions now support questions and translations.</description><pubDate>Sat, 21 Nov 2026 00:14:53 +0100</pubDate><sparkle:version>2</sparkle:version><sparkle:shortVersionString>0.0.2</sparkle:shortVersionString><sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/uid4oe/usefulwaves-releases/releases/download/v0.0.2/usefulwaves-0.0.2.dmg" length="10996782" type="application/octet-stream" sparkle:edSignature="ELVSDOkd5vaQYL1FAu5o5GEY8Mgj3mRZtA4IDrdtU1kaSFBMROuAHdIUcuYLn4acRPhjwqP841WH4lzCkdlyDg=="></enclosure></item></channel>
 </rss><!-- sparkle-signatures:
-edSignature: Cd4pTe0Ec/sYCdAvyoJ9SHYH2c5tEVpaiT2/PPcpKaG+aGJwV9XOmfkzGG/CSGQS6qmynO7cOuX7uJolH57FAQ==
-length: 1371
+edSignature: ddNxoF5MVsiFBBi/Z1w72+L0gpEbwbNJ7u5zW6AyXQaagSPWHfEsqzvq837kCbQ7DIR8Nh27wTMtPV+ngrdQAw==
+length: 2386
 -->
