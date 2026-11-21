@@ -15,8 +15,14 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 - Copy a task or QA finding with its evidence, check it off, or open it in Captures to keep working.
 - Select related tasks or findings and send them to one workflow session.
 
-This update also improves dictation startup and the first paste. Quick Actions now support questions and translations.</description><pubDate>Sat, 21 Nov 2026 00:14:53 +0100</pubDate><sparkle:version>2</sparkle:version><sparkle:shortVersionString>0.0.2</sparkle:shortVersionString><sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/uid4oe/usefulwaves-releases/releases/download/v0.0.2/usefulwaves-0.0.2.dmg" length="10996782" type="application/octet-stream" sparkle:edSignature="ELVSDOkd5vaQYL1FAu5o5GEY8Mgj3mRZtA4IDrdtU1kaSFBMROuAHdIUcuYLn4acRPhjwqP841WH4lzCkdlyDg=="></enclosure></item></channel>
+This update also improves dictation startup and the first paste. Quick Actions now support questions and translations.</description><pubDate>Sat, 21 Nov 2026 00:14:53 +0100</pubDate><sparkle:version>2</sparkle:version><sparkle:shortVersionString>0.0.2</sparkle:shortVersionString><sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/uid4oe/usefulwaves-releases/releases/download/v0.0.2/usefulwaves-0.0.2.dmg" length="10996782" type="application/octet-stream" sparkle:edSignature="ELVSDOkd5vaQYL1FAu5o5GEY8Mgj3mRZtA4IDrdtU1kaSFBMROuAHdIUcuYLn4acRPhjwqP841WH4lzCkdlyDg=="></enclosure></item><item><title>usefulwaves 0.0.3</title><description>usefulwaves 0.0.3 for Apple silicon Macs.
+
+- Generate a meeting summary and tasks even when a transcript link is missing. Read the timestamped conversation in a larger window.
+- Follow progress during long recaps. If preparation stops, retry to resume from the last completed batch.
+- Dictation and Quick Actions better preserve your wording and regional spelling. Buttons and editable fields are easier to recognize.
+
+This release also improves recovery after microphone disconnections and interrupted QA recordings.</description><pubDate>Sat, 21 Nov 2026 15:12:41 +0100</pubDate><sparkle:version>3</sparkle:version><sparkle:shortVersionString>0.0.3</sparkle:shortVersionString><sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/uid4oe/usefulwaves-releases/releases/download/v0.0.3/usefulwaves-0.0.3.dmg" length="11037310" type="application/octet-stream" sparkle:edSignature="PR94EYoapTCeAAGeLxQcIjau1tkb+UhRFJc1YYkBYAe7lTYiivIRjaNejy94M0ESgDPCNFehEwMKWQa39+4ZBw=="></enclosure></item></channel>
 </rss><!-- sparkle-signatures:
-edSignature: ddNxoF5MVsiFBBi/Z1w72+L0gpEbwbNJ7u5zW6AyXQaagSPWHfEsqzvq837kCbQ7DIR8Nh27wTMtPV+ngrdQAw==
-length: 2386
+edSignature: qTzhXkbG52Y7YeSVl7p8xc847d+X3Or+R0vpKqlQcFiGd2TMhT51PMSXEX4jyihRoerWnlULzHvuveloHS+MCw==
+length: 3472
 -->
