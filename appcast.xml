@@ -11,8 +11,12 @@ Dictation can paste into a terminal window when macOS cannot identify its text f
 
 Using the shortcut in an empty Slack composer starts dictation without asking about old clipboard text. Selection lookup respects remapped Copy commands and macOS Secure Input.
 
-Transcript and suggested-work dialogs resize with the capture pane.</description><pubDate>Mon, 23 Nov 2026 22:45:00 +0100</pubDate><sparkle:version>12</sparkle:version><sparkle:shortVersionString>0.0.12</sparkle:shortVersionString><sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/uid4oe/usefulwaves-releases/releases/download/v0.0.12/usefulwaves-0.0.12.dmg" length="5850559" type="application/octet-stream" sparkle:edSignature="iV/P49NaoAF9oZZSLPcJvP/wodeDAzXGU8QWc7tZyCAJIku2Q5o2YcKA2izgh2wGAD8Ci7SAZ1YYzEHfdXo9Bw=="></enclosure></item></channel>
+Transcript and suggested-work dialogs resize with the capture pane.</description><pubDate>Mon, 23 Nov 2026 22:45:00 +0100</pubDate><sparkle:version>12</sparkle:version><sparkle:shortVersionString>0.0.12</sparkle:shortVersionString><sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/uid4oe/usefulwaves-releases/releases/download/v0.0.12/usefulwaves-0.0.12.dmg" length="5850559" type="application/octet-stream" sparkle:edSignature="iV/P49NaoAF9oZZSLPcJvP/wodeDAzXGU8QWc7tZyCAJIku2Q5o2YcKA2izgh2wGAD8Ci7SAZ1YYzEHfdXo9Bw=="></enclosure></item><item><title>usefulwaves 0.0.13</title><description>Settings → AI processing now groups both switches. “Enable AI features” controls Quick Actions, meeting summaries, and note refinement. With AI features enabled, turn on “Use AI processing for dictation” to polish transcripts before pasting or saving them. Dictation polishing defaults off.
+
+Selecting message text across a divider in a deeply nested web conversation can now open Quick Actions with the full selection.
+
+Dictation now recognizes the original window when macOS first identifies it as the focused element during processing. This avoids a false “Input changed” in that case. The session log records which focus check blocked a paste.</description><pubDate>Mon, 23 Nov 2026 23:47:21 +0100</pubDate><sparkle:version>13</sparkle:version><sparkle:shortVersionString>0.0.13</sparkle:shortVersionString><sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion><enclosure url="https://github.com/uid4oe/usefulwaves-releases/releases/download/v0.0.13/usefulwaves-0.0.13.dmg" length="5852039" type="application/octet-stream" sparkle:edSignature="zwFyDcr2tqlAFF4IER3A9+1ZtplLB/xrrFLLf/mjaNB2Bqeuf+PpwaZDaX2voyV4Sb/9prLGLH4X9coSVBTFDw=="></enclosure></item></channel>
 </rss><!-- sparkle-signatures:
-edSignature: kbSpOET9wDzNwoX7bpH8sccau+Gfv/NHzqW32QdWicAIWHeYEOoflYfGYPV/zNr0Ym/err+HE9sap+2uboBoBQ==
-length: 2585
+edSignature: xkwoGuci6Mg8Wzq01v7JCsIf0wJY5tIViKOKorBH4J4fEde37eP7kfJn4f50avYmocE2DrjyavLpSIf+ddO0DQ==
+length: 3819
 -->
