@@ -23,23 +23,33 @@ Sparkle checks for signed updates after installation.
 
 ## Dictation
 
-The shortcut starts and stops recording.
-usefulwaves transcribes speech on the device and pastes the result into the frontmost application.
-Optional AI processing cleans up the transcript before insertion.
-Hold the stop press past the long-press threshold to send Return after pasting.
+Press the shortcut to start recording. Focus the destination input and press the shortcut again to stop.
+Keep that input focused while usefulwaves transcribes your speech on the device.
+If usefulwaves cannot verify the destination, choose **Copy Text** and paste the transcript yourself.
+To polish dictation before pasting, turn on **Enable AI features** and **Use AI processing for dictation** in Settings → AI processing.
+Hold the stop shortcut until the green outline appears to request Return after pasting.
+In a terminal that exposes only its window, usefulwaves pastes plain text into the window focused at stop.
+Typing or clicking in that window during transcription cancels the paste.
+Even a held stop leaves that draft for you to submit. The overlay shows **Return skipped**.
 
 ## Quick Actions
 
 Select text and press the shortcut to open writing tools when AI is available.
 Choose an action, speak a custom instruction, or type one.
 Results appear in the card as generation progresses when the connection supports streaming.
-Replace requires a supported editable selection. Copy also works with read-only selections.
+Choose **Apply** to replace the original selection if it is still editable and unchanged.
+Choose **Copy** to copy the completed draft, including for terminal output, other read-only text, or a changed selection.
 Customize the actions in Settings.
 
 ## Screenshots
 
-Use the capture button during dictation to add a screen region to the current recording.
-When you stop, usefulwaves pastes the image and text into a supported input or copies both to the clipboard.
+Choose **Capture Screen** during dictation and drag over a region. Repeat for each screenshot.
+Focus the destination input before stopping. Rich text editors that support attachments receive the transcript and screenshots together.
+In the Slack, Codex, and Claude desktop apps, usefulwaves pastes the transcript first, then each screenshot in capture order.
+In Herdr, each screenshot follows the transcript as a separate PNG file. The draft stays open for review.
+If delivery stops between attachments, use the numbered copy actions to paste the remaining screenshots one at a time.
+To save the transcript and screenshots together as one local note, enable **Save screenshot dictations as captures** in Settings → Dictation.
+Text-only dictation still pastes.
 Use **Capture Screen Region** from the menu bar to type beside a preview.
 Save the preview and your request as a capture. Enable local text recognition for the screenshot when needed.
 
