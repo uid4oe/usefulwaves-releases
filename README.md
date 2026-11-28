@@ -119,9 +119,7 @@ History stores transcription records locally. Manage them in the History tab.
 usefulwaves stores meeting audio, transcripts, and prepared work on your Mac. Exporting a meeting leaves its local record in place.
 Provider credentials stay in an owner-only file on the Mac.
 Diagnostics include local timing and error logs.
-Accounts are optional. Sign in and opt in to Notes or Personalization sync.
-Screenshot captures, meeting-derived captures, and attached source evidence stay local.
-Usage analytics starts off and has a separate setting.
+Captures, attached source evidence, and personalization are stored on your Mac.
 
 ## Distribution
 
