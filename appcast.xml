@@ -5,14 +5,12 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <title>usefulwaves updates</title>
     <link>https://github.com/uid4oe/usefulwaves-releases</link>
     <description>usefulwaves application updates</description>
-  <item><title>usefulwaves 0.0.33</title><description>- Add optional usage analytics and crash reporting. Each setting starts off.
-- Enable local MCP reads for saved captures, meetings, and QA reviews by default. Saved choices still apply.
-- Group local MCP and reporting under Data and privacy in General. Simplify General and Dictation settings.</description><pubDate>Sat, 28 Nov 2026 13:32:42 +0100</pubDate><sparkle:version>33</sparkle:version><sparkle:shortVersionString>0.0.33</sparkle:shortVersionString><sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion><sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements><enclosure url="https://github.com/uid4oe/usefulwaves-releases/releases/download/v0.0.33/usefulwaves-0.0.33.dmg" length="5962383" type="application/octet-stream" sparkle:edSignature="QYv8cDc51uIBETks7CxAdJsWylFd62+jThCZkF4842O2GA3dLvJ5TA5Y2Q4B6daqJUdRSlRdd7X/Bi2XksKBAA=="></enclosure></item><item><title>usefulwaves 0.0.34</title><description>- Prevent a late audio configuration notice from restarting a healthy microphone during dictation.
+  <item><title>usefulwaves 0.0.34</title><description>- Prevent a late audio configuration notice from restarting a healthy microphone during dictation.
 - Center dictation recovery actions and shorten warning copy to fit both overlay sizes.
 - Group the microphone test, sound preview, volume, and playback device in Dictation settings.
 - Request low reasoning for dictation and Quick Actions. Request medium reasoning for meeting analysis and QA summaries.
 - Use ASD-STE100 as the default guidance for clear English prose.</description><pubDate>Sat, 28 Nov 2026 16:19:23 +0100</pubDate><sparkle:version>34</sparkle:version><sparkle:shortVersionString>0.0.34</sparkle:shortVersionString><sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion><sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements><enclosure url="https://github.com/uid4oe/usefulwaves-releases/releases/download/v0.0.34/usefulwaves-0.0.34.dmg" length="5965275" type="application/octet-stream" sparkle:edSignature="lfEo2nL6nPAbjURmukYGHoX17oPAtT6FsSnP1DYWhmrp8T/7WkLf0Xp6XcLXVuTLaclolgpY9CjC5GB6KKqTDA=="></enclosure></item></channel>
 </rss><!-- sparkle-signatures:
-edSignature: jbJxPv07GtWL/1RsmYGXOCWT3rdzU+DOCLm/8E1XRFaNsSU1fIQ1yQ9HqoLVhh5Q1ORlulZbhW8l8YwzQr+fBw==
-length: 2615
+edSignature: BZGYnHilMcMRmwu9pyCz5FEZ+5dj7Jy2t72R19DopfrI1FYJvsFwtrOjM+d9EkGHywfQtVLHcLitj4HOs8CPAg==
+length: 1683
 -->
